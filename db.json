@@ -1,0 +1,50 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "email": "teste@gmail.com",
+      "password": "123456"
+    }
+  ],
+  "informacoes": [
+    {
+      "id": 1,
+      "foto": "https://github.com/wicthorsilva.png",
+      "nome": "Wicthor Luiz",
+      "cargo": "Desenvolvedor Front-End",
+      "resumo": "Meu nome Wicthor, estou me formando em análise e desenvolvimento de sistemas, tenho conhecimento em desing gráfico e marketing digital. Busco expandir meus conhecimentos profissionais e avançar nesse mundo de desenvolvimento de sistemas."
+    }
+  ],
+  "experiencias": [
+    {
+      "id": 1,
+      "titulo": "Desenvolvedor Front-End",
+      "descricao": "Junior",
+      "tipo": "profissional",
+      "anoInicio": "2022",
+      "anoFim": "2023"
+    },
+    {
+      "id": 2,
+      "titulo": "Desenvolvimento web",
+      "descricao": "Cursando ADS",
+      "tipo": "academico",
+      "anoInicio": "2022",
+      "anoFim": "2023"
+    }
+  ],
+  "projects": [
+    {
+      "link": "https://wicthorsilva.github.io/landingpage/",
+      "image": "https://picsum.photos/id/9/300/202",
+      "title": "Landingpage",
+      "id": 2
+    },
+    {
+      "link": "https://wicthorsilva.github.io/project-barberlup/",
+      "image": "https://picsum.photos/id/26/300/201",
+      "title": "Barber-Lup",
+      "id": 3
+    }
+  ]
+}
